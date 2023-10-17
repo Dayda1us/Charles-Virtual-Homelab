@@ -4,6 +4,8 @@ Personal homelab setup
 # Description
 The purpose of creating the repository is to show my scripts of how I automate my homelab setup throughout my journey using the following languages:
 - PowerShell
+
+I will soon use:
 - Ansible
 - Python
 - Bash
