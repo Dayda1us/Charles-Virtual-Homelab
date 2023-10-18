@@ -17,3 +17,7 @@ Specifications:
 - RAM: 64GB
 - Storage: 2TB NVME SSD
 - NIC: Intel Ethernet Network Adapter I350-T4
+
+Here is a list of Virtual Machines (VMs) that currently run inside the server. (10/18/2023):
+- x2 Active Directory servers both running Windows Server 2022 (One GUI, one core)
+- 
