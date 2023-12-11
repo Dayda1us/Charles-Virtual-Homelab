@@ -12,6 +12,7 @@ Later, I will be developing scripts using Ansible which will help me automate ma
 
 ## Homelab Setup
 As of December 7, 2023, my homelab consists running VMware ESXi.
+
 Specifications:
 - CPU: Intel Core i7-10700
 - RAM: 80 GB
