@@ -6,9 +6,9 @@ The purpose of this repository is to document everything that I've done to my ho
 
 ## Languages
 As of November 2023, I'm currently using the following languages:
-- PowerShell (Automating Microsoft environment)
+- PowerShell
 
-Later, I will be developing scripts using Ansible which will help me automate many tasks especially in a Linux environment.
+Later on, I will be developing scripts using Ansible which will help me automate many tasks in a Linux environment.
 
 ## Homelab Setup
 As of December 7, 2023, my homelab consists running VMware ESXi.
