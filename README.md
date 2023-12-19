@@ -19,11 +19,8 @@ Specifications:
 - Storage: Crucial 1TB NVME SSD, 2TB Seagate HDD
 - NIC: Intel Ethernet Network Adapter I350-T4
 
-## Virtual Machines (VM)
-List of Virtual Machines (VMs) that currently I run inside the ESXi server. (11/25/2023):
+## List of Virtual Machines (VM)
+As of 11/25/2023, here are a list of VMs that are currently running inside my ESXi server:
 - (x2) Windows Server 2022 (One GUI, One core) running Active Directory, DHCP, and DNS
 - (x4) Client PCs (2 Windows PCs, 2 Ubuntu PCs)
 - (x1) VMware vCenter Server
-
-All VMs were deployed with the help of Vagrant which automates the creation of the VMs which is very helpful whenever I destroy a system.
-
