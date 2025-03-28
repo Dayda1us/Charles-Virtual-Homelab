@@ -1,4 +1,4 @@
-# Charles' Personal Virtual Homelab Scripting Repository
+# Charles' Virtual Homelab Scripting Repository
 This GitHub repository is dedicated to storing scripts that serve dual purposes: 
 * Managing my virtual homelab environment.
 * To keep track of my learning journey across various scripting languages.
