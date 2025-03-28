@@ -12,7 +12,7 @@ It contains scripts primarily written in languages such as Python, Bash, PowerSh
 * **Automation Utility**: The repository provides practical tools for automating repetitive tasks within a virtual homelab environment, improving efficiency and consistency.
 * **Language Diversity**: Scripts span multiple programming languages, offering insights into different scripting paradigms and techniques.
 
-## ⚠️ Considerations
+## Considerations ⚠️
 * **Unfinished/Buggy Code**: Be aware that the repository may contain scripts that are not fully completed or have known issues. Users should review and test each script in a safe environment before applying them to their own systems.
 * **Personal Evolution**: The code reflects a personal learning journey, which means some scripts might be experimental or exploratory in nature.
 
